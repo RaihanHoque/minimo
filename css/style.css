@@ -1,0 +1,244 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+header{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+
+}
+nav{
+    width: 50%;
+    float: right;
+
+}
+nav ul{
+
+list-style: none;
+}
+nav ul li{
+
+float: left;
+
+margin: left;
+
+margin-left: 75px;
+
+color: #;
+
+color: #626262;
+
+font-weight: 400;
+
+font-family: 'Playfair Display', serif;
+}
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+.photodiary{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0;
+}
+.photodiary h1{
+
+color: #626262;
+
+font-size: 30px;
+
+
+
+margin-bottom: 30px;
+font-family: 'Playfair Display', serif;
+
+}
+.photodiary h6{
+
+color: #626262;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+margin-bottom: 20px;
+font-family: 'Playfair Display', serif;
+}
+.photodiary p{
+    
+color: #626262;
+    
+font-size: 16px;
+    
+margin-bottom: 29px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle{
+
+width: 80%;
+
+margin: auto;
+}
+.lifestyle-content{
+    overflow: hidden;
+    margin-bottom: 100px;
+
+}
+.lifestyle_one img, .lifestyle_two img{
+    width: 100%;
+}
+.lifestyle_one h1, .lifestyle_two h1{
+
+font-size: 30px;
+
+color: #626262;
+
+
+
+margin-bottom: 15px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_one h6, .lifestyle_two h6{
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+color: #626262;
+
+margin: 15px 0;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_one p,{
+
+font-size: 14px;
+
+color: #626262;
+
+line-height: 1.5;
+
+letter-spacing: 1.2;
+
+letter-spacing: 1.2px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_one{
+    
+width: 45%;
+    
+float: left;
+}
+.lifestyle_two{width: 45%;float: right;}
+
+.newsletter{
+
+background-color: #f0f0f0;
+
+padding: 50px 0;
+
+margin-bottom: 100px;
+}
+.news{
+
+width: 29%;
+
+margin: auto;
+
+position: relative;
+}
+.news h1{
+    color: #626262;
+    text-transform: capitalize;
+    font-size: 30px;
+    padding-bottom: 70px;
+    font-family: 'Playfair Display', serif;
+    
+
+}
+.news input{
+    
+border: none;
+    
+background: transparent;
+    
+border-bottom: 1px solid;
+    
+width: 100%;
+outline: none;
+}
+.news input::placeholder{
+    font-size: 14px;
+    text-transform:capitalize ;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+
+}
+.icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+footer{
+    background-color: #f0f0f0;
+    padding: 50px;
+    
+
+}
+.footer-content{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+
+}
+.terms{
+    width: 20%;
+    float: left;
+
+}
+.terms ul{
+    list-style: none;
+    overflow: hidden;
+
+}
+.terms ul li{
+    float: left;
+    margin-right: 10px;
+    text-transform: capitalize;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    
+
+}
+.social-icon{
+    width: 20%;
+    float: right;
+
+}
+.social-icon ul{
+    list-style: none;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    overflow: hidden;
+    
+    
+
+}
+.social-icon ul li{
+    float: left;
+    margin-left: 17px;
+    
+    
+}
